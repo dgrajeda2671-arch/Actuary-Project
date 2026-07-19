@@ -1,2 +1,3 @@
 # Actuary-Project
 Project mock consultation
+This project is meant to simulate a 25 year retirement plan for a small restuaraunt owner who is uncertain of future business trends due to a sudden introduction of tariffs. The business owner wishes to hand down their small business and retire using an index fund with regular deposits being made from the business profits. The quality of the food is of the upmost importance to our small business owner, so they are the only employee. Using AI to genereate comparable recipes to develop options of business changes, our team has found the most profitable business option for our client.
